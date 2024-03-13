@@ -1,0 +1,6 @@
+flask
+sqlalchemy
+celery
+redis
+lxml
+beautifulsoup4
